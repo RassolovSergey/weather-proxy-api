@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/header.svg" alt="Weather Proxy API" width="100%"></p>
+
 # Weather Proxy API
 
 **Погодный сервис на C# с Redis-кэшем и интерфейсом на Next.js.**
